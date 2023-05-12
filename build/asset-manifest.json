@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wang-reactportfolio-23/static/css/main.6d637804.css",
+    "main.js": "/wang-reactportfolio-23/static/js/main.2887da0d.js",
+    "index.html": "/wang-reactportfolio-23/index.html",
+    "main.6d637804.css.map": "/wang-reactportfolio-23/static/css/main.6d637804.css.map",
+    "main.2887da0d.js.map": "/wang-reactportfolio-23/static/js/main.2887da0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d637804.css",
+    "static/js/main.2887da0d.js"
+  ]
+}
